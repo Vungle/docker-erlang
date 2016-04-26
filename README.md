@@ -11,3 +11,6 @@ Builds are automatically pushed to docker hub via circleci as you commit.
 * master branch -> latest tag
 * creating a release tag will also create a corresoponding image tag
 
+## Erlang Specific Help
+
+https://github.com/msaraiva/docker-alpine/tree/master/dockerfiles
